@@ -1,9 +1,5 @@
 Hey, I'm Samarth. 21, ECE student from Mumbai, currently in Hyderabad building things that I think are actually going to matter.
 
-<div align="right">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDgxNGY2bDduZzMzcjRrdDdlMWdxa3M4d3JmYnI1N2tuMTIyYml2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JwTqLNfrx4OPe/giphy.gif" width="300" alt="hello gif" />
-</div>
-
 ## What I'm building now
 
 At **KPMG Digital Lighthouse**, I work on AI systems that eliminate the manual, repetitive parts of real business workflows.
@@ -28,4 +24,8 @@ Trained tabla player. I drink too much coffee. Recently got into pickleball.
 
 Freelance and consulting work. If you have a workflow that's costing too much time or too many people, let's talk.
 
-**samarthmadhivanan@gmail.com** · [LinkedIn](https://linkedin.com/in/samarthm04)
+**samarthm04edu@gmail.com** · [LinkedIn](https://linkedin.com/in/samarthm04)
+
+<div align="centre">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDgxNGY2bDduZzMzcjRrdDdlMWdxa3M4d3JmYnI1N2tuMTIyYml2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JwTqLNfrx4OPe/giphy.gif" width="300" alt="hello gif" />
+</div>
