@@ -1,6 +1,6 @@
 Hey, I'm Samarth. 21, ECE student from Mumbai, currently in Hyderabad building things that I think are actually going to matter.
 
-<div align="center">
+<div align="right">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDgxNGY2bDduZzMzcjRrdDdlMWdxa3M4d3JmYnI1N2tuMTIyYml2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JwTqLNfrx4OPe/giphy.gif" width="300" alt="hello gif" />
 </div>
 
