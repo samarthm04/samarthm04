@@ -1,31 +1,90 @@
-Hey, I'm Samarth. 21, ECE student from Mumbai, currently in Hyderabad building things that I think are actually going to matter.
+# 👋 Hey, I'm Samarth
 
-## What I'm building now
+### ⚡ 21 | ECE @ Mumbai → Currently in Hyderabad  
+### 🛠️ Building things that actually matter
 
-At **KPMG Digital Lighthouse**, I work on AI systems that eliminate the manual, repetitive parts of real business workflows.
+---
 
-**AIL (AI Interaction Layer):** Just shipped this. It gives Claude the ability to use any website without needing a custom connector built for each one. It reads what's on screen the way a human does, falling back through multiple methods until it understands the page, then acts on it correctly. No site-specific hardcoding. Being tested on multiple sites right now.
+## 🚀 What I'm building now
 
-**Financial logging bot:** A Mumbai-based builder texts it casually, the way he'd message a friend. It takes those messages and structures everything his CA needs, automatically. No spreadsheets, no forms, no end-of-month scramble.
+### 🔗 AIL (AI Interaction Layer)
+> Just shipped 🚢 — still a work in progress ⚙️
 
-## Some things I've built
+Gives Claude the ability to use any website without custom connectors.  
+Reads screens like a human 👀 → falls back across methods → understands → acts.
 
-**IndyRX:** Listened to doctor-patient conversations, extracted clinical insights, flagged gaps as they happened, and generated structured notes. Tracked each patient's history across every visit. Built to take the clerical work off clinicians.
+✨ No site-specific hardcoding  
+🧪 Currently being tested across multiple sites  
 
-**NPCI:** Fraud detection pipeline processing 35 crore transactions a day.
+---
 
-**Intel:** Cut-in detection model for Indian roads, where lane markings often don't exist. Built the model to work without them.
+### 💬 Financial Logging Bot
 
-## A bit about me
+The client is a Mumbai-based builder.
+How does it work? Texts it casually, like messaging a friend.
 
-Trained tabla player. I drink too much coffee. Recently got into pickleball.
+📲 → Converts messages into structured financial logs  
+📊 → Ready for CA  
 
-## Open to
+---
 
-Freelance and consulting work. If you have a workflow that's costing too much time or too many people, let's talk.
+## 🏢 Where I work
 
-**samarthm04edu@gmail.com** · [LinkedIn](https://linkedin.com/in/samarthm04)
+### 🧠 KPMG Digital Lighthouse
 
-<div align="centre">
+---
+
+## 🧩 Some things I've built
+
+### 🏥 MedAI for IndyRX
+- Listened to doctor-patient conversations 🎙️  
+- Extracted clinical insights  
+- Flagged gaps in real-time  
+- Generated structured notes  
+- Tracked patient history across visits  
+
+→ Built to eliminate clerical burden on clinicians  
+
+---
+
+### 💳 NPCI
+- Fraud detection pipeline  
+
+---
+
+### 🚗 Intel
+- Cut-in detection model for Indian roads  
+- Works even when lane markings don’t exist 🛣️❌  
+
+---
+
+## 🎯 A bit about me
+
+🥁 Trained tabla player and singer.
+☕ I love nerding out about coffee.
+🏋🏻‍♂️ If i'm not at work youll probably find me in the gym or on the pickleball court. 
+
+---
+
+## 🤝 Open to
+
+Freelance + consulting work  
+
+If your workflow is:
+- ⏳ wasting time  
+- 👥 wasting people  
+- 📉 or just inefficient  
+
+→ let’s fix it  
+
+---
+
+## 📬 Reach out
+
+📧 [Email me](mailto:samarthm04edu@gmail.com)  
+🔗 [Samarth Madhivanan on LinkedIn](https://www.linkedin.com/in/samarth-madhivanan2306)
+---
+
+<div align="center">
+
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDgxNGY2bDduZzMzcjRrdDdlMWdxa3M4d3JmYnI1N2tuMTIyYml2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JwTqLNfrx4OPe/giphy.gif" width="300" alt="hello gif" />
-</div>
